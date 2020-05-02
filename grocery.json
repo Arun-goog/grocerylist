@@ -1,0 +1,95 @@
+
+[
+    {
+        "serialnum":"#01",
+        "name": "Rice",
+        "quantity":"10",
+        "unit":"Kg",
+        "department":"saplyco",
+        "notes":"Buy Palakkadan matta"
+    },
+
+    {
+        "serialnum":"#02",
+        "name": "Fish",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Grand fresh",
+        "notes":"Prefer mathi"
+
+    },
+
+    {
+        "serialnum":"#03",
+        "name": "Coconut oil",
+        "quantity":"5",
+        "unit":"Ltr",
+        "department":"saplyco",
+        "notes":"Prefer kera brand"
+    },
+
+    {
+        "serialnum":"#04",
+        "name": "Pepper",
+        "quantity":"500",
+        "unit":"Gram",
+        "department":"saplyco",
+        "notes":"Do not prefer packets"
+    },
+
+    {
+        "serialnum":"#05",
+        "name": "Sugar",
+        "quantity":"2",
+        "unit":"Kg",
+        "department":"saplyco",
+        "notes":"Buy good quality"
+    },
+
+    {
+        "serialnum":"#06",
+        "name": "Wheat flour",
+        "quantity":"5",
+        "unit":"Kg",
+        "department":"saplyco",
+        "notes":"Dont prefer packets"
+    },
+
+    {
+        "serialnum":"#07",
+        "name": "Tomato",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Grant fresh",
+        "notes":"Buy fresh "
+    },
+
+    {
+        "serialnum":"#08",
+        "name": "Onion",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Grant fresh",
+        "notes":"Buy big andfresh"
+    },
+
+    {
+        "serialnum":"#09",
+        "name": "Salt",
+        "quantity":"3",
+        "unit":"Pkt",
+        "department":"saplyco",
+        "notes":"Non iodised"
+    },
+
+    {
+        "serialnum":"#10",
+        "name": "Green Chilli",
+        "quantity":"500",
+        "unit":"Gram",
+        "department":"Grant fresh",
+        "notes":"Buy fresh"
+    }
+
+    
+]
